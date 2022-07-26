@@ -1,0 +1,17 @@
+.App {
+  
+  background-image: url("./images/Front-page-image.jpg");
+  background-repeat: no-repeat;
+  background-size: cover ;
+  height: 100vh;
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0, 0.7); /* Black w/opacity/see-through */
+  color: white;
+}
+.whiteColor{
+  color: gainsboro !important;
+}
+
+.background{
+  background-color: rgba(0, 0, 0, 0.253) !important;
+}
