@@ -13,8 +13,8 @@ function ListTask() {
 
   return (
     <div>
-      <h1>Todo List</h1>
-      <h4>{date}</h4>
+      <h1>Recepie draft</h1>
+      
       <Addtask />
       {todos.map((todo, index) => (
         <Task task={todo} key={todo.id} />

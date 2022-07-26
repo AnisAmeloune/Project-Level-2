@@ -33,7 +33,7 @@ function Addtask() {
           
         }}
       >
-        Add todo
+        Add ingredients
       </button>
     </div>
   );
